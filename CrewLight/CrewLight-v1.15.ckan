@@ -10,7 +10,7 @@
         "repository": "https://github.com/Li0n-0/CrewLight"
     },
     "version": "v1.15",
-    "ksp_version": "1.4.3",
+    "ksp_version": "1.4.5",
     "depends": [
         {
             "name": "ModuleManager"
