@@ -22,12 +22,6 @@
             "name": "Toolbar"
         },
         {
-            "name": "DeepFreeze"
-        },
-        {
-            "name": "RemoteTech"
-        },
-        {
             "name": "ModuleManager"
         }
     ],
