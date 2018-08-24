@@ -58,9 +58,6 @@
         }
     ],
     "conflicts": [
-        {
-            "name": "SETI-CommunityTechTree"
-        }
     ],
     "install": [
         {
