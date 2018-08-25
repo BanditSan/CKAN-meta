@@ -13,7 +13,7 @@
         "x_screenshot": "https://spacedock.info/content/Nertea_200/Heat_Control/Heat_Control-1461001260.81544.png"
     },
     "version": "0.4.5",
-    "ksp_version": "1.4.2",
+    "ksp_version": "1.4.5",
     "depends": [
         {
             "name": "ModuleManager"
