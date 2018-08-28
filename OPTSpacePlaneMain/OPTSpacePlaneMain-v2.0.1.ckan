@@ -11,11 +11,8 @@
         "x_screenshot": "https://spacedock.info/content/kyeon_8653/OPT_Space_Plane/OPT_Space_Plane-1501049978.9795141.png"
     },
     "version": "v2.0.1",
-    "ksp_version": "1.3",
+    "ksp_version": "1.4.5",
     "depends": [
-        {
-            "name": "FirespitterCore"
-        },
         {
             "name": "ModuleManager"
         }
