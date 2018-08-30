@@ -10,7 +10,7 @@
         "repository": "https://github.com/blowfishpro/B9-Aerospace"
     },
     "version": "1:v6.5.0",
-    "ksp_version": "1.4.2",
+    "ksp_version": "1.4.5",
     "depends": [
         {
             "name": "RasterPropMonitor-Core"
