@@ -21,9 +21,6 @@
         {
             "name": "ModuleManager"
         },
-        {
-            "name": "OPTReconfig"
-        }
     ],
     "recommends": [
         {
