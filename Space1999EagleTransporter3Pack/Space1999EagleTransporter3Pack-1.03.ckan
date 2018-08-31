@@ -11,7 +11,7 @@
         "x_screenshot": "https://spacedock.info/content/MajorTom_11772/Space_1999_Eagle_Transporter_3_Pack/Space_1999_Eagle_Transporter_3_Pack-1494876409.0166671.jpg"
     },
     "version": "1.03",
-    "ksp_version": "1.3.0",
+    "ksp_version": "1.4.5",
     "install": [
         {
             "find": "MT-Eagle",
