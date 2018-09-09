@@ -15,7 +15,7 @@
         "x_screenshot": "https://spacedock.info/content/BorisBarboris_4693/CorrectCoL/CorrectCoL-1466893163.4436524.png"
     },
     "version": "1.6.4.1",
-    "ksp_version": "1.4.3",
+    "ksp_version": "1.4.5",
     "depends": [
         {
             "name": "ToolbarController"
