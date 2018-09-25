@@ -11,7 +11,7 @@
         "x_screenshot": "https://spacedock.info/content/blackheart612_3936/Airplane_Plus/Airplane_Plus-1518094398.3325841.png"
     },
     "version": "23.0",
-    "ksp_version": "1.4.4",
+    "ksp_version": "1.4.5",
     "depends": [
         {
             "name": "FirespitterCore"
