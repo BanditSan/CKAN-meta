@@ -13,7 +13,8 @@
         "bugtracker": "https://github.com/allista/AT_Utils/issues"
     },
     "version": "v1.6.2",
-    "ksp_version": "1.4.5",
+    "ksp_version_min": "1.4.5",
+    "ksp_version_max": "1.6.9",
     "depends": [
         {
             "name": "ConfigurableContainers-Core"
