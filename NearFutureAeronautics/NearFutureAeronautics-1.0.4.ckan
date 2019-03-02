@@ -1,0 +1,59 @@
+{
+    "spec_version": "v1.4",
+    "identifier": "NearFutureAeronautics",
+    "name": "Near Future Propulsion",
+    "abstract": "Advanced electric engines in a stockalike aesthetic.",
+    "author": "Nertea",
+    "license": "CC-BY-NC-SA-4.0",
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/155465-122-near-future-technologies",
+        "spacedock": "https://spacedock.info/mod/1957/Near%20Future%20Aeronautics",
+        "repository": "https://github.com/ChrisAdderley/NearFutureAeronautics",
+        "x_screenshot": "https://spacedock.info/content/Nertea_200/Near_Future_Aeronautics/Near_Future_Aeronautics-1535576049.6255999.png"
+    },
+    "version": "1.0.4",
+    "ksp_version_min": "1.5.0",
+    "ksp_version_max": "1.6.99",
+    "depends": [
+        {
+            "name": "CommunityResourcePack"
+        },
+        {
+            "name": "ModuleManager"
+        }
+    ],
+    "recommends": [
+        {
+            "name": "CommunityTechTree"
+        }
+    ],
+    "suggests": [
+        {
+            "name": "NearFutureConstruction"
+        },
+        {
+            "name": "NearFutureSolar"
+        },
+        {
+            "name": "NearFutureSpacecraft"
+        },
+        {
+            "name": "OuterPlanetsMod"
+        }
+    ],
+    "install": [
+        {
+            "find": "NearFutureAeronautics",
+            "install_to": "GameData",
+            "filter": ".DS_Store"
+        }
+    ],
+    "download": "https://spacedock.info/mod/1957/Near%20Future%20Aeronautics/download/1.0.4",
+    "download_size": 38927141,
+    "download_hash": {
+        "sha1": "7e99d261f94325fa5352cb3f4212f0b4caf2a3af",
+        "sha256": "9981a85276ba5aba4fa28849fc82829c0afe603c3759414ffccbb7832cb6d2ef"
+    },
+    "download_content_type": "application/zip",
+    "x_generated_by": "netkan"
+}
