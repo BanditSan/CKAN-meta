@@ -11,7 +11,8 @@
         "x_screenshot": "https://spacedock.info/content/OrbitalPhoenix_20040/Integrated_Phoenix_Industries_-_Space_Tug/Integrated_Phoenix_Industries_-_Space_Tug-1546218658.9341888.png"
     },
     "version": "v0.03",
-    "ksp_version": "1.6.0",
+    "ksp_version_min": "1.6.0",
+    "ksp_version_max": "1.6.99",
     "suggests": [
         {
             "name": "BluedogDB"
