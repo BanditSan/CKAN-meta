@@ -11,7 +11,8 @@
         "x_screenshot": "https://spacedock.info/content/kyeon_8653/OPT_Space_Plane/OPT_Space_Plane-1501049978.9795141.png"
     },
     "version": "v2.0.1",
-    "ksp_version": "1.4.5",
+    "ksp_version_min": "1.4.5",
+    "ksp_version_max": "1.6.9",
     "depends": [
         {
             "name": "ModuleManager"
