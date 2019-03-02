@@ -16,7 +16,8 @@
         "x_screenshot": "https://spacedock.info/content/zkeyaerospace_1268/TacFuelBalancer/TacFuelBalancer-1466458494.3982704.png"
     },
     "version": "v2.20",
-    "ksp_version": "1.4.5",
+    "ksp_version_min": "1.4.5",
+    "ksp_version_max": "1.6.99",
     "suggests": [
         {
             "name": "KSP-AVC"
