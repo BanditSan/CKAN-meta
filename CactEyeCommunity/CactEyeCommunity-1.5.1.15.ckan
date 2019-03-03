@@ -17,7 +17,8 @@
         "x_screenshot": "https://spacedock.info/content/sethplays_961/CactEye-2_Orbital_Telescope/CactEye-2_Orbital_Telescope-1462082921.9867887.jpg"
     },
     "version": "1.5.1.15",
-    "ksp_version": "1.5.1",
+    "ksp_version_min": "1.5.1",
+    "ksp_version_max": "1.6.99",
     "recommends": [
         {
             "name": "CactEyeCommunityDOEPatch"
