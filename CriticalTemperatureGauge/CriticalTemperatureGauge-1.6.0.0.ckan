@@ -13,7 +13,7 @@
         "repository": "https://github.com/formicant/CriticalTemperatureGauge"
     },
     "version": "1.6.0.0",
-    "ksp_version": "1.6.0",
+    "ksp_version": "1.6.1",
     "download": "https://github.com/formicant/CriticalTemperatureGauge/releases/download/1.6.0.0/CriticalTemperatureGauge-1.6.0.0.zip",
     "download_size": 24451,
     "download_hash": {
